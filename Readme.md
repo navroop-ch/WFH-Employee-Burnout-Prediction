@@ -54,6 +54,7 @@ Handled severe class imbalance using:
 - ROC-AUC Score: 0.97
 - Successfully detected high-risk employees
 - Demonstrated impact of class imbalance on model performance
+![ROC Curve](roc_curve.png)
 
 ---
 
